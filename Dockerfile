@@ -8,5 +8,3 @@ RUN apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 0xb9316a7bc7917b12 
     && apt-get update
 
 RUN apt-get install -y nodejs
-
-RUN npm install sodium zmq
