@@ -1,9 +1,4 @@
 node
 ====
 
-node.js with libsodium and zeromq support included.
-
-Included Packages
------------------
-* sodium
-* zmq
+Evented I/O for V8 javascript
