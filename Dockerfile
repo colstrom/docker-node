@@ -1,3 +1,3 @@
-FROM colstrom/alpine:main
+FROM colstrom/alpine
 
 RUN apk-install nodejs
